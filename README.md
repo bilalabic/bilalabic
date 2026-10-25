@@ -1,133 +1,88 @@
-<div align="center">
+# Hi, I'm Bilal 👋
 
-# Bilal Abiç
+I build AI products and backend systems in Türkiye. I'm the founder of [ILYNT Labs](https://ilyntlabs.com) and a Software Engineering student at Fırat University.
 
-**Backend & AI Engineer**
+[Website](https://bilalabic.com) · [LinkedIn](https://www.linkedin.com/in/bilalabic) · [X](https://x.com/bilalabic) · [Hugging Face](https://huggingface.co/bilalabic)
 
-Building Turkish AI data infrastructure, backend systems and products at [ILYNT Labs](https://ilyntlabs.com).
+- 🧪 **ILYNT Labs:** an independent AI studio. We ship our own products, like [Sinyra](https://ilyntlabs.com/products/sinyra), a daily AI briefing in Turkish, and build RAG and custom AI systems for organizations.
+- 🗂️ **Turkish AI data:** most of my open-source work is tool-calling datasets, a verified catalogue of Turkish datasets and the quality checks behind them.
+- 🥇 **Hackathons:** 1st place at the Kayseri Monad Blitz, 2nd place at Gelecek Üreten Gece.
+- ⚙️ **Day to day:** Python and FastAPI, C# and .NET, TypeScript and Next.js.
+- 🤝 **Open to:** collaboration on Turkish NLP, datasets and developer tools.
 
-[![Website](https://img.shields.io/badge/bilalabic.com-0A0A0A?style=flat-square&logo=googlechrome&logoColor=white)](https://bilalabic.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bilalabic)
-[![X](https://img.shields.io/badge/@bilalabic-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/bilalabic)
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/bilalabic)
-[![ILYNT Labs](https://img.shields.io/badge/ILYNT%20Labs-1F2937?style=flat-square)](https://ilyntlabs.com)
+## 🏆 Hackathon projects
 
-</div>
+Team projects built at hackathons, mostly on Monad, Stellar and Sui.
 
----
+- **[MONOSFER](https://github.com/bilalabic/monosfer)** 🥇 <br>
+  A courier marketplace on Monad. Couriers bid openly and Solidity escrow contracts hold the payment. 1st place at the BuilderMare Kayseri Monad Blitz. <br>
+  `Vue 3` `Express` `MongoDB` `Solidity` `Foundry`
+- **[WEIAP](https://github.com/bilalabic/ruzgar)** 🥈 <br>
+  Wind energy investment analysis, from map-based site selection to financial feasibility, with AI reporting. 2nd place at Gelecek Üreten Gece. <br>
+  `JavaScript` `Vite` `Leaflet` `Sui` `Walrus` · [original team repo](https://github.com/kevseraslan/ruzgar)
+- **[ChargeMesh](https://github.com/bilalabic/ChargeMesh)** · [demo](https://chargemesh.vercel.app) <br>
+  Turns idle EV chargers into reservable capacity, with settlement on Monad testnet and charging metered over OCPP. Built at Monad Blitz İstanbul. <br>
+  `Vue 3` `Fastify` `MongoDB` `Solidity` `Foundry`
+- **[showup](https://github.com/bilalabic/showup)** · [demo](https://showup-steel.vercel.app) <br>
+  Attendance commitment bonds on Stellar: lock a refundable bond and get it back on check-in. Built for the Rise In × Stellar Pro Hackathon Türkiye 2026. <br>
+  `Next.js` `Soroban` `Stellar`
+## 📚 Turkish AI data
 
-### 👋 About
+The area I'm focusing on. These projects are still early and growing.
 
-- 🎓 Student at **Fırat University**, building at **[ILYNT Labs](https://ilyntlabs.com)**
-- 🇹🇷 Most of my open-source work is about **Turkish-language AI data**: tool-calling datasets, dataset catalogues and the quality checks behind them
-- ⚙️ Day to day: Python & FastAPI backends, C# / .NET, TypeScript & Next.js products
-- 🏁 I like hackathons — shipping a working demo in a weekend on Stellar, Monad and AI stacks
-- 🤝 Open to collaborations on Turkish NLP, datasets and developer tools
+**Catalogue**
 
----
+- **[awesome-turkish-datasets](https://github.com/bilalabic/awesome-turkish-datasets)** is a community-driven catalogue of Turkish datasets, 298 so far, with licence, size and access checked per entry. Corrections and additions are welcome. [Browse it](https://bilalabic.github.io/awesome-turkish-datasets/).
 
+**Tool-calling data (in development)**
 
-### 🏆 Competition highlights
+The goal is high-quality Turkish training data for models that call tools, with verification at every step.
 
-| Result | Competition | Project / focus |
-|---|---|---|
-| **🥈 2nd place** | **Gelecek Üreten Gece** — HSD Fırat × Fırat Blockchain | [WEIAP](https://github.com/bilalabic/ruzgar): wind energy investment analysis · [Award post ↗](https://tr.linkedin.com/posts/%C3%B6mer-%C3%A7anak%C3%A7%C4%B1_hsd-f%C4%B1rat%C3%BCniversitesi-blockchain-activity-7414044369030201344-PT1u) |
-| **6th place** | Turkcell Code Night — Diyarbakır | 15-hour team coding challenge · [Recap ↗](https://tr.linkedin.com/posts/bilalabic_turkcell-codenight-gelece%C4%9Fiyazanlar-activity-7383448471057612800-qStV) |
-| **6th place** | Paribu University Code Prix — Gaziantep | Team algorithm and strategy competition · [Recap ↗](https://tr.linkedin.com/posts/bilalabic_paribucodex-paribu-hiltongaziantep-activity-7393213576926105600-F3xH) |
-
-### 🔎 Selected projects
-
-| **[WEIAP · Wind Energy Investment Analysis](https://github.com/bilalabic/ruzgar)** | **[RESQ · Disaster Coordination](https://github.com/bilalabic/afet-koordinasyon-agi)** |
-|---|---|
-| [![WEIAP map and location analysis](https://raw.githubusercontent.com/bilalabic/ruzgar/main/photos/world-map-location-picker.png)](https://github.com/bilalabic/ruzgar) | [![RESQ coordinator dashboard](https://raw.githubusercontent.com/bilalabic/afet-koordinasyon-agi/main/ss/Koordinat%C3%B6r/web_coordinator_dashboard.png)](https://github.com/bilalabic/afet-koordinasyon-agi) |
-| **🥈 Hackathon runner-up · Team project** | **Backend & mobile development · Team project** |
-| Location-based wind analysis, turbine production estimates and financial feasibility calculations, with AI reporting and decentralized storage integrations. | Request scoring, DBSCAN geographic clustering and multi-criteria vehicle recommendations, with a web panel and mobile request flow. |
-| JavaScript · Vite · Leaflet · Sui · Walrus · Seal | Python · FastAPI · PostgreSQL / PostGIS · React · React Native / Expo |
-| [Source ↗](https://github.com/bilalabic/ruzgar) · [Original team repo ↗](https://github.com/kevseraslan/ruzgar) | [Source ↗](https://github.com/bilalabic/afet-koordinasyon-agi) · [Web demo ↗](https://afet-koordinasyon-agi.vercel.app) |
-
----
-
-### 🧠 Open source I maintain
-
-| Project | What it does | |
-|---|---|---|
-| **[magibu-toolcall](https://github.com/bilalabic/magibu-toolcall)** | Quality-gated infrastructure to design, generate, verify and human-review Turkish tool-calling training data. Tool contracts, execution results and provenance in one traceable flow. 27 PRs from 9 contributors. | ![stars](https://img.shields.io/github/stars/bilalabic/magibu-toolcall?style=flat-square&label=%E2%98%85) |
-| **[awesome-turkish-datasets](https://github.com/bilalabic/awesome-turkish-datasets)** | A verified catalogue of **298** Turkish datasets across language, speech, vision and multimodal AI. Every entry is checked against the data itself — licence, size and access included. [Browse →](https://bilalabic.github.io/awesome-turkish-datasets/) | ![stars](https://img.shields.io/github/stars/bilalabic/awesome-turkish-datasets?style=flat-square&label=%E2%98%85) |
-| **[toolcall-tr](https://github.com/bilalabic/toolcall-tr)** | Execution-verified tool-calling data for Türkiye-specific APIs with cassette-based reproducibility. **v0.1:** 200 verified examples, 35 tools, 15 providers. | ![stars](https://img.shields.io/github/stars/bilalabic/toolcall-tr?style=flat-square&label=%E2%98%85) |
-| **[toolcall-tr-pipeline](https://github.com/bilalabic/toolcall-tr-pipeline)** | Audit-first pipeline that converts English tool-calling and chat data into high-quality Turkish training data. | ![stars](https://img.shields.io/github/stars/bilalabic/toolcall-tr-pipeline?style=flat-square&label=%E2%98%85) |
+- **[toolcall-tr](https://github.com/bilalabic/toolcall-tr)**: every tool call is run by a real implementation and checked, and no tool output is written by an LLM. v0.1 is a small proof of the method with 200 verified examples, 35 tools and 15 providers. The next target is 10,000 to 15,000 examples.
+- **[toolcall-tr-pipeline](https://github.com/bilalabic/toolcall-tr-pipeline)**: turns English tool-calling and chat data into Turkish training data. In a 1,000-candidate run, 733 records passed the quality gates and are waiting for human review.
+- **[magibu-toolcall](https://github.com/bilalabic/magibu-toolcall)**: data-generation infrastructure built with the Magibu AI community, with 27 pull requests from 9 contributors. Currently paused after the first round of contributions.
 
 <details>
-<summary><b>Research & experiments</b></summary>
+<summary>Research, experiments and datasets on Hugging Face</summary>
 <br>
 
-- **[math-toolcall-tr](https://github.com/bilalabic/math-toolcall-tr)** — 1,207-example Turkish math tool-calling set + Gemma LoRA fine-tune
-- **[huggingface-dataset-analizi](https://github.com/bilalabic/huggingface-dataset-analizi)** — quality and capability analysis of 45 Turkish Hugging Face datasets (87,831 rows)
-- **[foods_bpe_tokenizer](https://github.com/bilalabic/foods_bpe_tokenizer)** — BPE tokenizer from scratch + a miniature transformer that invents Turkish dish names
+- [math-toolcall-tr](https://github.com/bilalabic/math-toolcall-tr): 1,207 Turkish math tool-calling examples and a Gemma LoRA fine-tune
+- [huggingface-dataset-analizi](https://github.com/bilalabic/huggingface-dataset-analizi): quality and capability analysis of 45 Turkish datasets (87,831 rows)
+- [foods_bpe_tokenizer](https://github.com/bilalabic/foods_bpe_tokenizer): a BPE tokenizer from scratch and a tiny transformer that invents Turkish dish names
+- Datasets: [turkish-tool-calling](https://huggingface.co/datasets/bilalabic/turkish-tool-calling) · [quality-gated preview](https://huggingface.co/datasets/bilalabic/turkish-tool-calling-quality-gated-preview) · [toolcall-tr-pilot](https://huggingface.co/datasets/bilalabic/toolcall-tr-pilot) · [math-toolcall-tr](https://huggingface.co/datasets/bilalabic/math-toolcall-tr) · [benchmark](https://huggingface.co/datasets/bilalabic/math-toolcall-tr-benchmark)
 
 </details>
 
----
+## 🚀 Other things I've built
+
+- **[RESQ](https://github.com/bilalabic/afet-koordinasyon-agi)** · [demo](https://afet-koordinasyon-agi.vercel.app): a team project for disaster coordination with request scoring, geographic clustering and vehicle recommendations. I built the backend and mobile parts
+- **[firat-hackathon-community](https://github.com/bilalabic/firat-hackathon-community)** · [demo](https://firat-hackathon-community.vercel.app): a directory to discover, verify and publish hackathons
+- **[listur](https://github.com/bilalabic/listur)** · [demo](https://listur.bilalabic.com): Türkiye's tech event platform for hackathons, meetups and conferences
+- **[udf-dilekce](https://github.com/bilalabic/udf-dilekce)** · [demo](https://udf-dilekce.vercel.app): bulk petition generation from Word and UYAP templates, entirely in the browser
+- **[kalkan](https://github.com/bilalabic/kalkan)**: scam detection for second-hand marketplace chats
+- **[ProjectTracker](https://github.com/bilalabic/ProjectTracker)**: project planning and tracking with AI-assisted risk analysis
+
+## 🛠 Tools I reach for
+
+- **Languages:** `Python` `C#` `TypeScript` `JavaScript` `Java`
+- **Backend:** `FastAPI` `ASP.NET Core` `Node.js`
+- **Frontend:** `Next.js` `React` `Vue 3` `Tailwind CSS`
+- **Data:** `PostgreSQL` `PostGIS` `MongoDB` `Supabase`
+- **AI:** `RAG` `tool calling` `LoRA fine-tuning` `Hugging Face`
+- **Web3:** `Solidity` `Foundry` `Move` `Soroban`
+- **Shipping:** `Docker` `GitHub Actions` `Vercel`
 
 <details>
-<summary><b>🤗 Datasets on Hugging Face</b></summary>
-
-| Dataset | |
-|---|---|
-| [turkish-tool-calling](https://huggingface.co/datasets/bilalabic/turkish-tool-calling) | Turkish tool-calling training data |
-| [turkish-tool-calling-quality-gated-preview](https://huggingface.co/datasets/bilalabic/turkish-tool-calling-quality-gated-preview) | Preview output of the quality-gated pipeline |
-| [toolcall-tr-pilot](https://huggingface.co/datasets/bilalabic/toolcall-tr-pilot) | Pilot release of ToolCall-TR |
-| [math-toolcall-tr](https://huggingface.co/datasets/bilalabic/math-toolcall-tr) · [benchmark](https://huggingface.co/datasets/bilalabic/math-toolcall-tr-benchmark) | Turkish math tool-calling set and its benchmark |
-
-</details>
-
----
-
-### 🚀 Products & live demos
-
-| Project | Stack | Live |
-|---|---|---|
-| **[firat-hackathon-community](https://github.com/bilalabic/firat-hackathon-community)** — hackathon directory: discover, verify, review and publish events | Next.js · FastAPI · Supabase | [Open ↗](https://firat-hackathon-community.vercel.app) |
-| **[listur](https://github.com/bilalabic/listur)** — Türkiye's tech event platform for hackathons, meetups and conferences | Next.js · Supabase | [Open ↗](https://listur.bilalabic.com) |
-| **[udf-dilekce](https://github.com/bilalabic/udf-dilekce)** — bulk documents from Word / UYAP templates + an Excel list, entirely in the browser | TypeScript | [Open ↗](https://udf-dilekce.vercel.app) |
-| **[kalkan](https://github.com/bilalabic/kalkan)** — scam detection for second-hand marketplace chats: links, IBANs and 18 fraud patterns | Python · Gemini | — |
-| **[ProjectTracker](https://github.com/bilalabic/ProjectTracker)** — project planning and tracking with AI-assisted risk analysis | C# · .NET 8 · EF Core · DevExpress | — |
-
-### 🏁 Hackathon builds
-
-| Project | Event / network | Live |
-|---|---|---|
-| **[showup](https://github.com/bilalabic/showup)** — attendance commitment bonds | Rise In × Stellar Pro Hackathon Türkiye 2026 · Stellar Testnet | [Open ↗](https://showup-steel.vercel.app) |
-| **[ChargeMesh](https://github.com/bilalabic/ChargeMesh)** — reservable EV charging capacity | Monad Testnet + OCPP simulator | [Open ↗](https://chargemesh.vercel.app) |
-
----
-
-### 🛠️ Tech I work with
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
----
-
-<details>
-<summary><b>📦 Earlier & learning projects (archived)</b></summary>
+<summary>Archive: coursework and learning projects</summary>
 <br>
 
-Course work and early experiments, kept public as a record of how I learned. They are archived and not maintained.
+Kept public as a record of how I learned. Archived and not maintained.
 
-- **[university-coursework](https://github.com/bilalabic/university-coursework)**: C# / Windows Forms assignments (FlappyBird, SentimentAnalysis, SimpleTranslate, DemoChatSocketApp, AIChatBotDemo, AntivirusAppDemo) and a Java orientation assignment, all in one repo with their original history
-- **Other learning projects:** [Sui21Challenge](https://github.com/bilalabic/Sui21Challenge) · [PayShare-dApp](https://github.com/bilalabic/PayShare-dApp) · [ProjectDemoHub](https://github.com/bilalabic/ProjectDemoHub)
+- [university-coursework](https://github.com/bilalabic/university-coursework): C# and Windows Forms assignments and a Java assignment, with their original history
+- [web3-learning](https://github.com/bilalabic/web3-learning): a 21-day Sui Move challenge and a Stellar bill-splitting dApp
 
 </details>
 
-<div align="center">
-<sub>Reach me at <a href="https://bilalabic.com">bilalabic.com</a> or on <a href="https://www.linkedin.com/in/bilalabic">LinkedIn</a>.</sub>
-</div>
+---
+
+Want to build something together? Reach me at [bilalabic.com](https://bilalabic.com) or on [LinkedIn](https://www.linkedin.com/in/bilalabic).
