@@ -123,7 +123,8 @@ Building Turkish AI data infrastructure, backend systems and products at [ILYNT 
 
 Course work and early experiments, kept public as a record of how I learned. They are archived and not maintained.
 
-FlappyBird · SentimentAnalysis · SimpleTranslate · DemoChatSocketApp · AIChatBotDemo · AntivirusAppDemo · PayShare-dApp · Sui21Challenge · ProjectDemoHub · ClassMetotDemo
+- **[university-coursework](https://github.com/bilalabic/university-coursework)**: C# / Windows Forms assignments (FlappyBird, SentimentAnalysis, SimpleTranslate, DemoChatSocketApp, AIChatBotDemo, AntivirusAppDemo) and a Java orientation assignment, all in one repo with their original history
+- **Other learning projects:** [Sui21Challenge](https://github.com/bilalabic/Sui21Challenge) · [PayShare-dApp](https://github.com/bilalabic/PayShare-dApp) · [ProjectDemoHub](https://github.com/bilalabic/ProjectDemoHub)
 
 </details>
 
