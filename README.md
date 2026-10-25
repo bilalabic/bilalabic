@@ -2,7 +2,9 @@
 
 # Bilal Abiç
 
-**Backend & AI engineer · Building open Turkish AI data infrastructure**
+**Backend & AI Engineer**
+
+Building Turkish AI data infrastructure, backend systems and products at [ILYNT Labs](https://ilyntlabs.com).
 
 [![Website](https://img.shields.io/badge/bilalabic.com-0A0A0A?style=flat-square&logo=googlechrome&logoColor=white)](https://bilalabic.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bilalabic)
@@ -21,6 +23,27 @@
 - ⚙️ Day to day: Python & FastAPI backends, C# / .NET, TypeScript & Next.js products
 - 🏁 I like hackathons — shipping a working demo in a weekend on Stellar, Monad and AI stacks
 - 🤝 Open to collaborations on Turkish NLP, datasets and developer tools
+
+---
+
+
+### 🏆 Competition highlights
+
+| Result | Competition | Project / focus |
+|---|---|---|
+| **🥈 2nd place** | **Gelecek Üreten Gece** — HSD Fırat × Fırat Blockchain | [WEIAP](https://github.com/bilalabic/ruzgar): wind energy investment analysis · [Award post ↗](https://tr.linkedin.com/posts/%C3%B6mer-%C3%A7anak%C3%A7%C4%B1_hsd-f%C4%B1rat%C3%BCniversitesi-blockchain-activity-7414044369030201344-PT1u) |
+| **6th place** | Turkcell Code Night — Diyarbakır | 15-hour team coding challenge · [Recap ↗](https://tr.linkedin.com/posts/bilalabic_turkcell-codenight-gelece%C4%9Fiyazanlar-activity-7383448471057612800-qStV) |
+| **6th place** | Paribu University Code Prix — Gaziantep | Team algorithm and strategy competition · [Recap ↗](https://tr.linkedin.com/posts/bilalabic_paribucodex-paribu-hiltongaziantep-activity-7393213576926105600-F3xH) |
+
+### 🔎 Selected projects
+
+| **[WEIAP · Wind Energy Investment Analysis](https://github.com/bilalabic/ruzgar)** | **[RESQ · Disaster Coordination](https://github.com/bilalabic/afet-koordinasyon-agi)** |
+|---|---|
+| [![WEIAP map and location analysis](https://raw.githubusercontent.com/bilalabic/ruzgar/main/photos/world-map-location-picker.png)](https://github.com/bilalabic/ruzgar) | [![RESQ coordinator dashboard](https://raw.githubusercontent.com/bilalabic/afet-koordinasyon-agi/main/ss/Koordinat%C3%B6r/web_coordinator_dashboard.png)](https://github.com/bilalabic/afet-koordinasyon-agi) |
+| **🥈 Hackathon runner-up · Team project** | **Backend & mobile development · Team project** |
+| Location-based wind analysis, turbine production estimates and financial feasibility calculations, with AI reporting and decentralized storage integrations. | Request scoring, DBSCAN geographic clustering and multi-criteria vehicle recommendations, with a web panel and mobile request flow. |
+| JavaScript · Vite · Leaflet · Sui · Walrus · Seal | Python · FastAPI · PostgreSQL / PostGIS · React · React Native / Expo |
+| [Source ↗](https://github.com/bilalabic/ruzgar) · [Original team repo ↗](https://github.com/kevseraslan/ruzgar) | [Source ↗](https://github.com/bilalabic/afet-koordinasyon-agi) · [Web demo ↗](https://afet-koordinasyon-agi.vercel.app) |
 
 ---
 
@@ -45,7 +68,8 @@
 
 ---
 
-### 🤗 On Hugging Face
+<details>
+<summary><b>🤗 Datasets on Hugging Face</b></summary>
 
 | Dataset | |
 |---|---|
@@ -53,6 +77,8 @@
 | [turkish-tool-calling-quality-gated-preview](https://huggingface.co/datasets/bilalabic/turkish-tool-calling-quality-gated-preview) | Preview output of the quality-gated pipeline |
 | [toolcall-tr-pilot](https://huggingface.co/datasets/bilalabic/toolcall-tr-pilot) | Pilot release of ToolCall-TR |
 | [math-toolcall-tr](https://huggingface.co/datasets/bilalabic/math-toolcall-tr) · [benchmark](https://huggingface.co/datasets/bilalabic/math-toolcall-tr-benchmark) | Turkish math tool-calling set and its benchmark |
+
+</details>
 
 ---
 
@@ -72,7 +98,6 @@
 |---|---|---|
 | **[showup](https://github.com/bilalabic/showup)** — attendance commitment bonds | Rise In × Stellar Pro Hackathon Türkiye 2026 · Stellar Testnet | [Open ↗](https://showup-steel.vercel.app) |
 | **[ChargeMesh](https://github.com/bilalabic/ChargeMesh)** — reservable EV charging capacity | Monad Testnet + OCPP simulator | [Open ↗](https://chargemesh.vercel.app) |
-| **[afet-koordinasyon-agi](https://github.com/bilalabic/afet-koordinasyon-agi)** — disaster coordination network *(team project)* | Python · Mobile | [Open ↗](https://afet-koordinasyon-agi.vercel.app) |
 
 ---
 
